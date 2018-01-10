@@ -5,7 +5,14 @@
   "main": "app.js",
   "author": "6.148 Staff",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
   "dependencies": {
+    "express": "^4.16.1",
     "http": "*",
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
   }
 }
