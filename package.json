@@ -6,6 +6,6 @@
   "author": "6.148 Staff",
   "license": "MIT",
   "dependencies": {
-    "http": "*",
+    "http": "0.0.0"
   }
 }
